@@ -1,0 +1,2468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d2"/>
+<key attr.name="weight" attr.type="long" for="node" id="d1"/>
+<key attr.name="cat" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="ACTINOMYCINE">
+  <data key="d0">drug</data>
+  <data key="d1">446</data>
+</node>
+<node id="VINCRISTINE">
+  <data key="d0">drug</data>
+  <data key="d1">1604</data>
+</node>
+<node id="ADRIAMYCINE">
+  <data key="d0">drug</data>
+  <data key="d1">345</data>
+</node>
+<node id="ETOPOSIDE">
+  <data key="d0">drug</data>
+  <data key="d1">1239</data>
+</node>
+<node id="CARBOPLATINE">
+  <data key="d0">drug</data>
+  <data key="d1">610</data>
+</node>
+<node id="CYCLOPHOSPHAMID">
+  <data key="d0">drug</data>
+  <data key="d1">1323</data>
+</node>
+<node id="MELPHALAN">
+  <data key="d0">drug</data>
+  <data key="d1">271</data>
+</node>
+<node id="THIOTEPA">
+  <data key="d0">drug</data>
+  <data key="d1">176</data>
+</node>
+<node id="VP16">
+  <data key="d0">drug</data>
+  <data key="d1">343</data>
+</node>
+<node id="TEMOZOLOMIDE">
+  <data key="d0">drug</data>
+  <data key="d1">263</data>
+</node>
+<node id="IRINOTECAN">
+  <data key="d0">drug</data>
+  <data key="d1">188</data>
+</node>
+<node id="CISPLATINE">
+  <data key="d0">drug</data>
+  <data key="d1">585</data>
+</node>
+<node id="METHOTREXATE">
+  <data key="d0">drug</data>
+  <data key="d1">776</data>
+</node>
+<node id="OXALIPLATINE">
+  <data key="d0">drug</data>
+  <data key="d1">12</data>
+</node>
+<node id="FLUOROURACIL">
+  <data key="d0">drug</data>
+  <data key="d1">15</data>
+</node>
+<node id="CETUXIMAB">
+  <data key="d0">drug</data>
+  <data key="d1">9</data>
+</node>
+<node id="BEVACIZUMAB">
+  <data key="d0">drug</data>
+  <data key="d1">59</data>
+</node>
+<node id="IFOSFAMIDE">
+  <data key="d0">drug</data>
+  <data key="d1">884</data>
+</node>
+<node id="RETINOICACID">
+  <data key="d0">drug</data>
+  <data key="d1">83</data>
+</node>
+<node id="BUSULFAN">
+  <data key="d0">drug</data>
+  <data key="d1">300</data>
+</node>
+<node id="TOPOTECAN">
+  <data key="d0">drug</data>
+  <data key="d1">199</data>
+</node>
+<node id="PREDNISONE">
+  <data key="d0">drug</data>
+  <data key="d1">260</data>
+</node>
+<node id="ARACYTINE">
+  <data key="d0">drug</data>
+  <data key="d1">357</data>
+</node>
+<node id="GEMCITABINE">
+  <data key="d0">drug</data>
+  <data key="d1">38</data>
+</node>
+<node id="DOCETAXEL">
+  <data key="d0">drug</data>
+  <data key="d1">21</data>
+</node>
+<node id="RAPAMYCINE">
+  <data key="d0">drug</data>
+  <data key="d1">21</data>
+</node>
+<node id="DOXORUBICINE">
+  <data key="d0">drug</data>
+  <data key="d1">1020</data>
+</node>
+<node id="VINORELBINE">
+  <data key="d0">drug</data>
+  <data key="d1">188</data>
+</node>
+<node id="DACARBAZINE">
+  <data key="d0">drug</data>
+  <data key="d1">51</data>
+</node>
+<node id="VINBLASTINE">
+  <data key="d0">drug</data>
+  <data key="d1">103</data>
+</node>
+<node id="CELECOXIB">
+  <data key="d0">drug</data>
+  <data key="d1">84</data>
+</node>
+<node id="ZOLEDRONICACID">
+  <data key="d0">drug</data>
+  <data key="d1">21</data>
+</node>
+<node id="MERCAPTOPURINE">
+  <data key="d0">drug</data>
+  <data key="d1">256</data>
+</node>
+<node id="KIDROLASEASP">
+  <data key="d0">drug</data>
+  <data key="d1">235</data>
+</node>
+<node id="THIOGUANINE">
+  <data key="d0">drug</data>
+  <data key="d1">245</data>
+</node>
+<node id="MITOXANTRONE">
+  <data key="d0">drug</data>
+  <data key="d1">137</data>
+</node>
+<node id="PEGASP">
+  <data key="d0">drug</data>
+  <data key="d1">146</data>
+</node>
+<node id="CYTARABINE">
+  <data key="d0">drug</data>
+  <data key="d1">221</data>
+</node>
+<node id="DEXAMETHASONE">
+  <data key="d0">drug</data>
+  <data key="d1">291</data>
+</node>
+<node id="DAUNORUBICINE">
+  <data key="d0">drug</data>
+  <data key="d1">318</data>
+</node>
+<node id="VINDESINE">
+  <data key="d0">drug</data>
+  <data key="d1">128</data>
+</node>
+<node id="DAUNOXOME">
+  <data key="d0">drug</data>
+  <data key="d1">9</data>
+</node>
+<node id="AMSACRINE">
+  <data key="d0">drug</data>
+  <data key="d1">53</data>
+</node>
+<node id="BORTEZOMIB">
+  <data key="d0">drug</data>
+  <data key="d1">9</data>
+</node>
+<node id="SELUMETINIB">
+  <data key="d0">drug</data>
+  <data key="d1">6</data>
+</node>
+<node id="PROCARBAZINE">
+  <data key="d0">drug</data>
+  <data key="d1">39</data>
+</node>
+<node id="THALIDOMIDE">
+  <data key="d0">drug</data>
+  <data key="d1">16</data>
+</node>
+<node id="PREDNISOLONE">
+  <data key="d0">drug</data>
+  <data key="d1">172</data>
+</node>
+<node id="BRENTUXIMAB">
+  <data key="d0">drug</data>
+  <data key="d1">7</data>
+</node>
+<node id="NILOTINIB">
+  <data key="d0">drug</data>
+  <data key="d1">4</data>
+</node>
+<node id="ERWINIAASP">
+  <data key="d0">drug</data>
+  <data key="d1">71</data>
+</node>
+<node id="CH1418CHO">
+  <data key="d0">drug</data>
+  <data key="d1">37</data>
+</node>
+<node id="RITUXIMAB">
+  <data key="d0">drug</data>
+  <data key="d1">35</data>
+</node>
+<node id="FLUDARABINE">
+  <data key="d0">drug</data>
+  <data key="d1">52</data>
+</node>
+<node id="IDARUBICINE">
+  <data key="d0">drug</data>
+  <data key="d1">21</data>
+</node>
+<node id="CLADRIBINE">
+  <data key="d0">drug</data>
+  <data key="d1">8</data>
+</node>
+<node id="ACIDEFOLINIQUE">
+  <data key="d0">drug</data>
+  <data key="d1">30</data>
+</node>
+<node id="FENOFIBRATE">
+  <data key="d0">drug</data>
+  <data key="d1">15</data>
+</node>
+<node id="LOMUSTINE">
+  <data key="d0">drug</data>
+  <data key="d1">14</data>
+</node>
+<node id="PROLEUKIN">
+  <data key="d0">drug</data>
+  <data key="d1">9</data>
+</node>
+<node id="BLINATUMOMAB">
+  <data key="d0">drug</data>
+  <data key="d1">14</data>
+</node>
+<node id="CARMUSTINE">
+  <data key="d0">drug</data>
+  <data key="d1">7</data>
+</node>
+<node id="ATEZOLIZUMAB">
+  <data key="d0">drug</data>
+  <data key="d1">2</data>
+</node>
+<node id="IBRUTINIB">
+  <data key="d0">drug</data>
+  <data key="d1">7</data>
+</node>
+<node id="HYDROCORTISONE">
+  <data key="d0">drug</data>
+  <data key="d1">17</data>
+</node>
+<node id="EPRATUZUMAB">
+  <data key="d0">drug</data>
+  <data key="d1">11</data>
+</node>
+<node id="TEMSIROLIMUS">
+  <data key="d0">drug</data>
+  <data key="d1">5</data>
+</node>
+<node id="HYDROXYCARBAMID">
+  <data key="d0">drug</data>
+  <data key="d1">8</data>
+</node>
+<node id="GEMTUZUMABOZO">
+  <data key="d0">drug</data>
+  <data key="d1">5</data>
+</node>
+<node id="AZACYTIDINE">
+  <data key="d0">drug</data>
+  <data key="d1">3</data>
+</node>
+<node id="SORAFENIB">
+  <data key="d0">drug</data>
+  <data key="d1">7</data>
+</node>
+<node id="INTERFERON">
+  <data key="d0">drug</data>
+  <data key="d1">2</data>
+</node>
+<edge source="ACTINOMYCINE" target="VINCRISTINE">
+  <data key="d2">119</data>
+</edge>
+<edge source="ACTINOMYCINE" target="IFOSFAMIDE">
+  <data key="d2">93</data>
+</edge>
+<edge source="ACTINOMYCINE" target="CYCLOPHOSPHAMID">
+  <data key="d2">51</data>
+</edge>
+<edge source="ACTINOMYCINE" target="IRINOTECAN">
+  <data key="d2">5</data>
+</edge>
+<edge source="ACTINOMYCINE" target="ETOPOSIDE">
+  <data key="d2">33</data>
+</edge>
+<edge source="ACTINOMYCINE" target="DOXORUBICINE">
+  <data key="d2">79</data>
+</edge>
+<edge source="ACTINOMYCINE" target="VINORELBINE">
+  <data key="d2">26</data>
+</edge>
+<edge source="ACTINOMYCINE" target="CARBOPLATINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="ACTINOMYCINE" target="VP16">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACTINOMYCINE" target="BUSULFAN">
+  <data key="d2">2</data>
+</edge>
+<edge source="ACTINOMYCINE" target="MELPHALAN">
+  <data key="d2">2</data>
+</edge>
+<edge source="ACTINOMYCINE" target="ADRIAMYCINE">
+  <data key="d2">10</data>
+</edge>
+<edge source="ACTINOMYCINE" target="TEMOZOLOMIDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACTINOMYCINE" target="PREDNISONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ACTINOMYCINE" target="DACARBAZINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ACTINOMYCINE" target="CLADRIBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ACTINOMYCINE" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ACTINOMYCINE" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="ACTINOMYCINE" target="DAUNORUBICINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ACTINOMYCINE" target="METHOTREXATE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ACTINOMYCINE" target="DEXAMETHASONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="TEMOZOLOMIDE">
+  <data key="d2">23</data>
+</edge>
+<edge source="VINCRISTINE" target="IRINOTECAN">
+  <data key="d2">30</data>
+</edge>
+<edge source="VINCRISTINE" target="IFOSFAMIDE">
+  <data key="d2">136</data>
+</edge>
+<edge source="VINCRISTINE" target="CYCLOPHOSPHAMID">
+  <data key="d2">201</data>
+</edge>
+<edge source="VINCRISTINE" target="ETOPOSIDE">
+  <data key="d2">159</data>
+</edge>
+<edge source="VINCRISTINE" target="CARBOPLATINE">
+  <data key="d2">90</data>
+</edge>
+<edge source="VINCRISTINE" target="ADRIAMYCINE">
+  <data key="d2">29</data>
+</edge>
+<edge source="VINCRISTINE" target="RETINOICACID">
+  <data key="d2">10</data>
+</edge>
+<edge source="VINCRISTINE" target="BUSULFAN">
+  <data key="d2">30</data>
+</edge>
+<edge source="VINCRISTINE" target="MELPHALAN">
+  <data key="d2">28</data>
+</edge>
+<edge source="VINCRISTINE" target="TOPOTECAN">
+  <data key="d2">22</data>
+</edge>
+<edge source="VINCRISTINE" target="CISPLATINE">
+  <data key="d2">70</data>
+</edge>
+<edge source="VINCRISTINE" target="PREDNISONE">
+  <data key="d2">30</data>
+</edge>
+<edge source="VINCRISTINE" target="ARACYTINE">
+  <data key="d2">29</data>
+</edge>
+<edge source="VINCRISTINE" target="METHOTREXATE">
+  <data key="d2">64</data>
+</edge>
+<edge source="VINCRISTINE" target="DOXORUBICINE">
+  <data key="d2">178</data>
+</edge>
+<edge source="VINCRISTINE" target="THIOTEPA">
+  <data key="d2">9</data>
+</edge>
+<edge source="VINCRISTINE" target="VINORELBINE">
+  <data key="d2">30</data>
+</edge>
+<edge source="VINCRISTINE" target="DACARBAZINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="VINCRISTINE" target="VINBLASTINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="VINCRISTINE" target="CELECOXIB">
+  <data key="d2">5</data>
+</edge>
+<edge source="VINCRISTINE" target="VP16">
+  <data key="d2">28</data>
+</edge>
+<edge source="VINCRISTINE" target="ZOLEDRONICACID">
+  <data key="d2">2</data>
+</edge>
+<edge source="VINCRISTINE" target="MERCAPTOPURINE">
+  <data key="d2">29</data>
+</edge>
+<edge source="VINCRISTINE" target="KIDROLASEASP">
+  <data key="d2">22</data>
+</edge>
+<edge source="VINCRISTINE" target="THIOGUANINE">
+  <data key="d2">27</data>
+</edge>
+<edge source="VINCRISTINE" target="MITOXANTRONE">
+  <data key="d2">8</data>
+</edge>
+<edge source="VINCRISTINE" target="PEGASP">
+  <data key="d2">17</data>
+</edge>
+<edge source="VINCRISTINE" target="CYTARABINE">
+  <data key="d2">21</data>
+</edge>
+<edge source="VINCRISTINE" target="BEVACIZUMAB">
+  <data key="d2">3</data>
+</edge>
+<edge source="VINCRISTINE" target="DAUNORUBICINE">
+  <data key="d2">31</data>
+</edge>
+<edge source="VINCRISTINE" target="BORTEZOMIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="VINCRISTINE" target="VINDESINE">
+  <data key="d2">12</data>
+</edge>
+<edge source="VINCRISTINE" target="SELUMETINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="PROCARBAZINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="VINCRISTINE" target="DEXAMETHASONE">
+  <data key="d2">28</data>
+</edge>
+<edge source="VINCRISTINE" target="ERWINIAASP">
+  <data key="d2">7</data>
+</edge>
+<edge source="VINCRISTINE" target="CH1418CHO">
+  <data key="d2">4</data>
+</edge>
+<edge source="VINCRISTINE" target="RITUXIMAB">
+  <data key="d2">5</data>
+</edge>
+<edge source="VINCRISTINE" target="FLUDARABINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="VINCRISTINE" target="CLADRIBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="IDARUBICINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="VINCRISTINE" target="ACIDEFOLINIQUE">
+  <data key="d2">3</data>
+</edge>
+<edge source="VINCRISTINE" target="PREDNISOLONE">
+  <data key="d2">17</data>
+</edge>
+<edge source="VINCRISTINE" target="LOMUSTINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="VINCRISTINE" target="PROLEUKIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="BLINATUMOMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="DAUNOXOME">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="IBRUTINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="HYDROCORTISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="THALIDOMIDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="TEMSIROLIMUS">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINCRISTINE" target="CARMUSTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADRIAMYCINE" target="ETOPOSIDE">
+  <data key="d2">27</data>
+</edge>
+<edge source="ADRIAMYCINE" target="CARBOPLATINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="ADRIAMYCINE" target="CYCLOPHOSPHAMID">
+  <data key="d2">30</data>
+</edge>
+<edge source="ADRIAMYCINE" target="CISPLATINE">
+  <data key="d2">30</data>
+</edge>
+<edge source="ADRIAMYCINE" target="METHOTREXATE">
+  <data key="d2">35</data>
+</edge>
+<edge source="ADRIAMYCINE" target="RETINOICACID">
+  <data key="d2">2</data>
+</edge>
+<edge source="ADRIAMYCINE" target="BUSULFAN">
+  <data key="d2">3</data>
+</edge>
+<edge source="ADRIAMYCINE" target="TEMOZOLOMIDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ADRIAMYCINE" target="MELPHALAN">
+  <data key="d2">3</data>
+</edge>
+<edge source="ADRIAMYCINE" target="TOPOTECAN">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADRIAMYCINE" target="PREDNISONE">
+  <data key="d2">11</data>
+</edge>
+<edge source="ADRIAMYCINE" target="ARACYTINE">
+  <data key="d2">12</data>
+</edge>
+<edge source="ADRIAMYCINE" target="DACARBAZINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ADRIAMYCINE" target="IFOSFAMIDE">
+  <data key="d2">38</data>
+</edge>
+<edge source="ADRIAMYCINE" target="VP16">
+  <data key="d2">22</data>
+</edge>
+<edge source="ADRIAMYCINE" target="DEXAMETHASONE">
+  <data key="d2">9</data>
+</edge>
+<edge source="ADRIAMYCINE" target="CYTARABINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ADRIAMYCINE" target="DAUNORUBICINE">
+  <data key="d2">10</data>
+</edge>
+<edge source="ADRIAMYCINE" target="MERCAPTOPURINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="ADRIAMYCINE" target="KIDROLASEASP">
+  <data key="d2">9</data>
+</edge>
+<edge source="ADRIAMYCINE" target="THIOGUANINE">
+  <data key="d2">10</data>
+</edge>
+<edge source="ADRIAMYCINE" target="PEGASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADRIAMYCINE" target="VINDESINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="ADRIAMYCINE" target="DOXORUBICINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="ADRIAMYCINE" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADRIAMYCINE" target="IRINOTECAN">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADRIAMYCINE" target="CLADRIBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADRIAMYCINE" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADRIAMYCINE" target="PREDNISOLONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ADRIAMYCINE" target="ERWINIAASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADRIAMYCINE" target="VINORELBINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ADRIAMYCINE" target="THIOTEPA">
+  <data key="d2">3</data>
+</edge>
+<edge source="ADRIAMYCINE" target="RAPAMYCINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETOPOSIDE" target="CARBOPLATINE">
+  <data key="d2">104</data>
+</edge>
+<edge source="ETOPOSIDE" target="CYCLOPHOSPHAMID">
+  <data key="d2">143</data>
+</edge>
+<edge source="ETOPOSIDE" target="MELPHALAN">
+  <data key="d2">29</data>
+</edge>
+<edge source="ETOPOSIDE" target="THIOTEPA">
+  <data key="d2">22</data>
+</edge>
+<edge source="ETOPOSIDE" target="VP16">
+  <data key="d2">4</data>
+</edge>
+<edge source="ETOPOSIDE" target="RETINOICACID">
+  <data key="d2">11</data>
+</edge>
+<edge source="ETOPOSIDE" target="BUSULFAN">
+  <data key="d2">27</data>
+</edge>
+<edge source="ETOPOSIDE" target="TEMOZOLOMIDE">
+  <data key="d2">21</data>
+</edge>
+<edge source="ETOPOSIDE" target="TOPOTECAN">
+  <data key="d2">16</data>
+</edge>
+<edge source="ETOPOSIDE" target="CISPLATINE">
+  <data key="d2">74</data>
+</edge>
+<edge source="ETOPOSIDE" target="PREDNISONE">
+  <data key="d2">17</data>
+</edge>
+<edge source="ETOPOSIDE" target="ARACYTINE">
+  <data key="d2">23</data>
+</edge>
+<edge source="ETOPOSIDE" target="METHOTREXATE">
+  <data key="d2">72</data>
+</edge>
+<edge source="ETOPOSIDE" target="GEMCITABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ETOPOSIDE" target="DOCETAXEL">
+  <data key="d2">2</data>
+</edge>
+<edge source="ETOPOSIDE" target="IFOSFAMIDE">
+  <data key="d2">116</data>
+</edge>
+<edge source="ETOPOSIDE" target="RAPAMYCINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETOPOSIDE" target="DOXORUBICINE">
+  <data key="d2">119</data>
+</edge>
+<edge source="ETOPOSIDE" target="DACARBAZINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="ETOPOSIDE" target="VINBLASTINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="ETOPOSIDE" target="IRINOTECAN">
+  <data key="d2">9</data>
+</edge>
+<edge source="ETOPOSIDE" target="CELECOXIB">
+  <data key="d2">10</data>
+</edge>
+<edge source="ETOPOSIDE" target="ZOLEDRONICACID">
+  <data key="d2">2</data>
+</edge>
+<edge source="ETOPOSIDE" target="MITOXANTRONE">
+  <data key="d2">12</data>
+</edge>
+<edge source="ETOPOSIDE" target="PEGASP">
+  <data key="d2">8</data>
+</edge>
+<edge source="ETOPOSIDE" target="CYTARABINE">
+  <data key="d2">18</data>
+</edge>
+<edge source="ETOPOSIDE" target="BEVACIZUMAB">
+  <data key="d2">3</data>
+</edge>
+<edge source="ETOPOSIDE" target="VINORELBINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="ETOPOSIDE" target="SELUMETINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETOPOSIDE" target="DAUNORUBICINE">
+  <data key="d2">17</data>
+</edge>
+<edge source="ETOPOSIDE" target="MERCAPTOPURINE">
+  <data key="d2">14</data>
+</edge>
+<edge source="ETOPOSIDE" target="KIDROLASEASP">
+  <data key="d2">17</data>
+</edge>
+<edge source="ETOPOSIDE" target="VINDESINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="ETOPOSIDE" target="THIOGUANINE">
+  <data key="d2">14</data>
+</edge>
+<edge source="ETOPOSIDE" target="PROCARBAZINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="ETOPOSIDE" target="THALIDOMIDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ETOPOSIDE" target="CH1418CHO">
+  <data key="d2">3</data>
+</edge>
+<edge source="ETOPOSIDE" target="RITUXIMAB">
+  <data key="d2">4</data>
+</edge>
+<edge source="ETOPOSIDE" target="DEXAMETHASONE">
+  <data key="d2">18</data>
+</edge>
+<edge source="ETOPOSIDE" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETOPOSIDE" target="FLUDARABINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ETOPOSIDE" target="ACIDEFOLINIQUE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ETOPOSIDE" target="PREDNISOLONE">
+  <data key="d2">12</data>
+</edge>
+<edge source="ETOPOSIDE" target="ERWINIAASP">
+  <data key="d2">2</data>
+</edge>
+<edge source="ETOPOSIDE" target="FENOFIBRATE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ETOPOSIDE" target="PROLEUKIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETOPOSIDE" target="AMSACRINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ETOPOSIDE" target="HYDROCORTISONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ETOPOSIDE" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETOPOSIDE" target="HYDROXYCARBAMID">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="CYCLOPHOSPHAMID">
+  <data key="d2">88</data>
+</edge>
+<edge source="CARBOPLATINE" target="MELPHALAN">
+  <data key="d2">17</data>
+</edge>
+<edge source="CARBOPLATINE" target="THIOTEPA">
+  <data key="d2">25</data>
+</edge>
+<edge source="CARBOPLATINE" target="VP16">
+  <data key="d2">42</data>
+</edge>
+<edge source="CARBOPLATINE" target="RETINOICACID">
+  <data key="d2">6</data>
+</edge>
+<edge source="CARBOPLATINE" target="BUSULFAN">
+  <data key="d2">13</data>
+</edge>
+<edge source="CARBOPLATINE" target="DOXORUBICINE">
+  <data key="d2">46</data>
+</edge>
+<edge source="CARBOPLATINE" target="TOPOTECAN">
+  <data key="d2">15</data>
+</edge>
+<edge source="CARBOPLATINE" target="CISPLATINE">
+  <data key="d2">57</data>
+</edge>
+<edge source="CARBOPLATINE" target="IRINOTECAN">
+  <data key="d2">3</data>
+</edge>
+<edge source="CARBOPLATINE" target="SELUMETINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="PROCARBAZINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="CARBOPLATINE" target="TEMOZOLOMIDE">
+  <data key="d2">17</data>
+</edge>
+<edge source="CARBOPLATINE" target="METHOTREXATE">
+  <data key="d2">16</data>
+</edge>
+<edge source="CARBOPLATINE" target="IFOSFAMIDE">
+  <data key="d2">22</data>
+</edge>
+<edge source="CARBOPLATINE" target="CH1418CHO">
+  <data key="d2">2</data>
+</edge>
+<edge source="CARBOPLATINE" target="ACIDEFOLINIQUE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="PREDNISOLONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="ARACYTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="DEXAMETHASONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CARBOPLATINE" target="PEGASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="ERWINIAASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="GEMCITABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="DOCETAXEL">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="LOMUSTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="PREDNISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="BEVACIZUMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="CARBOPLATINE" target="VINORELBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="ATEZOLIZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="CELECOXIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="CARBOPLATINE" target="RITUXIMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="CARBOPLATINE" target="CYTARABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CARBOPLATINE" target="IBRUTINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CARBOPLATINE" target="THALIDOMIDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="MELPHALAN">
+  <data key="d2">30</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="THIOTEPA">
+  <data key="d2">14</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="VP16">
+  <data key="d2">32</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="IRINOTECAN">
+  <data key="d2">17</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="RETINOICACID">
+  <data key="d2">9</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="BUSULFAN">
+  <data key="d2">30</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="TEMOZOLOMIDE">
+  <data key="d2">21</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="TOPOTECAN">
+  <data key="d2">28</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="CISPLATINE">
+  <data key="d2">68</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="PREDNISONE">
+  <data key="d2">22</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="ARACYTINE">
+  <data key="d2">22</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="METHOTREXATE">
+  <data key="d2">54</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="GEMCITABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="DOCETAXEL">
+  <data key="d2">2</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="IFOSFAMIDE">
+  <data key="d2">81</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="RAPAMYCINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="DOXORUBICINE">
+  <data key="d2">128</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="VINORELBINE">
+  <data key="d2">33</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="VINBLASTINE">
+  <data key="d2">19</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="CELECOXIB">
+  <data key="d2">14</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="MITOXANTRONE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="PEGASP">
+  <data key="d2">11</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="CYTARABINE">
+  <data key="d2">16</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="DEXAMETHASONE">
+  <data key="d2">18</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="BEVACIZUMAB">
+  <data key="d2">3</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="DAUNORUBICINE">
+  <data key="d2">20</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="MERCAPTOPURINE">
+  <data key="d2">19</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="KIDROLASEASP">
+  <data key="d2">11</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="THIOGUANINE">
+  <data key="d2">17</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="SELUMETINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="VINDESINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="PROCARBAZINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="THALIDOMIDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="DACARBAZINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="ERWINIAASP">
+  <data key="d2">5</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="CH1418CHO">
+  <data key="d2">4</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="RITUXIMAB">
+  <data key="d2">4</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="FLUDARABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="CLADRIBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="ACIDEFOLINIQUE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="PREDNISOLONE">
+  <data key="d2">7</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="FENOFIBRATE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="PROLEUKIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="BLINATUMOMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="HYDROCORTISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYCLOPHOSPHAMID" target="LOMUSTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MELPHALAN" target="THIOTEPA">
+  <data key="d2">5</data>
+</edge>
+<edge source="MELPHALAN" target="VP16">
+  <data key="d2">9</data>
+</edge>
+<edge source="MELPHALAN" target="BUSULFAN">
+  <data key="d2">36</data>
+</edge>
+<edge source="MELPHALAN" target="TEMOZOLOMIDE">
+  <data key="d2">9</data>
+</edge>
+<edge source="MELPHALAN" target="TOPOTECAN">
+  <data key="d2">12</data>
+</edge>
+<edge source="MELPHALAN" target="CISPLATINE">
+  <data key="d2">22</data>
+</edge>
+<edge source="MELPHALAN" target="RETINOICACID">
+  <data key="d2">9</data>
+</edge>
+<edge source="MELPHALAN" target="DOXORUBICINE">
+  <data key="d2">21</data>
+</edge>
+<edge source="MELPHALAN" target="IRINOTECAN">
+  <data key="d2">7</data>
+</edge>
+<edge source="MELPHALAN" target="VINBLASTINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="MELPHALAN" target="IFOSFAMIDE">
+  <data key="d2">9</data>
+</edge>
+<edge source="MELPHALAN" target="CELECOXIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="MELPHALAN" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="MELPHALAN" target="BEVACIZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="MELPHALAN" target="VINORELBINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="MELPHALAN" target="SELUMETINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="MELPHALAN" target="CH1418CHO">
+  <data key="d2">5</data>
+</edge>
+<edge source="MELPHALAN" target="FLUDARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MELPHALAN" target="MITOXANTRONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MELPHALAN" target="CYTARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MELPHALAN" target="PROLEUKIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="MELPHALAN" target="DEXAMETHASONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="VP16">
+  <data key="d2">13</data>
+</edge>
+<edge source="THIOTEPA" target="GEMCITABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="DOCETAXEL">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="IFOSFAMIDE">
+  <data key="d2">6</data>
+</edge>
+<edge source="THIOTEPA" target="RAPAMYCINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="THIOTEPA" target="BUSULFAN">
+  <data key="d2">11</data>
+</edge>
+<edge source="THIOTEPA" target="DOXORUBICINE">
+  <data key="d2">4</data>
+</edge>
+<edge source="THIOTEPA" target="TOPOTECAN">
+  <data key="d2">2</data>
+</edge>
+<edge source="THIOTEPA" target="CISPLATINE">
+  <data key="d2">11</data>
+</edge>
+<edge source="THIOTEPA" target="RETINOICACID">
+  <data key="d2">3</data>
+</edge>
+<edge source="THIOTEPA" target="TEMOZOLOMIDE">
+  <data key="d2">13</data>
+</edge>
+<edge source="THIOTEPA" target="FLUDARABINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="THIOTEPA" target="PREDNISONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="THIOTEPA" target="DAUNORUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="MERCAPTOPURINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="ARACYTINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="THIOTEPA" target="METHOTREXATE">
+  <data key="d2">5</data>
+</edge>
+<edge source="THIOTEPA" target="KIDROLASEASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="VINDESINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="THIOGUANINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="PREDNISOLONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="THIOTEPA" target="DEXAMETHASONE">
+  <data key="d2">3</data>
+</edge>
+<edge source="THIOTEPA" target="CYTARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="CELECOXIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="MITOXANTRONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOTEPA" target="IRINOTECAN">
+  <data key="d2">1</data>
+</edge>
+<edge source="VP16" target="DOXORUBICINE">
+  <data key="d2">17</data>
+</edge>
+<edge source="VP16" target="CISPLATINE">
+  <data key="d2">27</data>
+</edge>
+<edge source="VP16" target="BUSULFAN">
+  <data key="d2">9</data>
+</edge>
+<edge source="VP16" target="TOPOTECAN">
+  <data key="d2">6</data>
+</edge>
+<edge source="VP16" target="MERCAPTOPURINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="VP16" target="ARACYTINE">
+  <data key="d2">11</data>
+</edge>
+<edge source="VP16" target="METHOTREXATE">
+  <data key="d2">27</data>
+</edge>
+<edge source="VP16" target="KIDROLASEASP">
+  <data key="d2">5</data>
+</edge>
+<edge source="VP16" target="THIOGUANINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="VP16" target="IFOSFAMIDE">
+  <data key="d2">24</data>
+</edge>
+<edge source="VP16" target="DEXAMETHASONE">
+  <data key="d2">5</data>
+</edge>
+<edge source="VP16" target="CYTARABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="VP16" target="PREDNISONE">
+  <data key="d2">5</data>
+</edge>
+<edge source="VP16" target="DAUNORUBICINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="VP16" target="CH1418CHO">
+  <data key="d2">3</data>
+</edge>
+<edge source="VP16" target="RETINOICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="VP16" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="VP16" target="TEMOZOLOMIDE">
+  <data key="d2">8</data>
+</edge>
+<edge source="VP16" target="PREDNISOLONE">
+  <data key="d2">3</data>
+</edge>
+<edge source="VP16" target="VINDESINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="VP16" target="MITOXANTRONE">
+  <data key="d2">4</data>
+</edge>
+<edge source="VP16" target="AMSACRINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="VP16" target="ATEZOLIZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="VP16" target="ERWINIAASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="VP16" target="PEGASP">
+  <data key="d2">2</data>
+</edge>
+<edge source="VP16" target="PROCARBAZINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VP16" target="VINBLASTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VP16" target="IRINOTECAN">
+  <data key="d2">1</data>
+</edge>
+<edge source="VP16" target="RAPAMYCINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="IRINOTECAN">
+  <data key="d2">43</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="BUSULFAN">
+  <data key="d2">8</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="TOPOTECAN">
+  <data key="d2">31</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="CISPLATINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="RETINOICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="VINBLASTINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="DOXORUBICINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="IFOSFAMIDE">
+  <data key="d2">8</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="CELECOXIB">
+  <data key="d2">8</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="BEVACIZUMAB">
+  <data key="d2">13</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="VINORELBINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="THALIDOMIDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="TEMSIROLIMUS">
+  <data key="d2">2</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="FENOFIBRATE">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEMOZOLOMIDE" target="INTERFERON">
+  <data key="d2">1</data>
+</edge>
+<edge source="IRINOTECAN" target="OXALIPLATINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="IRINOTECAN" target="FLUOROURACIL">
+  <data key="d2">5</data>
+</edge>
+<edge source="IRINOTECAN" target="CETUXIMAB">
+  <data key="d2">3</data>
+</edge>
+<edge source="IRINOTECAN" target="BEVACIZUMAB">
+  <data key="d2">16</data>
+</edge>
+<edge source="IRINOTECAN" target="BUSULFAN">
+  <data key="d2">6</data>
+</edge>
+<edge source="IRINOTECAN" target="VINBLASTINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="IRINOTECAN" target="DOXORUBICINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="IRINOTECAN" target="IFOSFAMIDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="IRINOTECAN" target="CELECOXIB">
+  <data key="d2">3</data>
+</edge>
+<edge source="IRINOTECAN" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="IRINOTECAN" target="RAPAMYCINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="IRINOTECAN" target="VINORELBINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="IRINOTECAN" target="TEMSIROLIMUS">
+  <data key="d2">2</data>
+</edge>
+<edge source="IRINOTECAN" target="CISPLATINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IRINOTECAN" target="TOPOTECAN">
+  <data key="d2">1</data>
+</edge>
+<edge source="CISPLATINE" target="METHOTREXATE">
+  <data key="d2">36</data>
+</edge>
+<edge source="CISPLATINE" target="BUSULFAN">
+  <data key="d2">19</data>
+</edge>
+<edge source="CISPLATINE" target="TOPOTECAN">
+  <data key="d2">22</data>
+</edge>
+<edge source="CISPLATINE" target="RETINOICACID">
+  <data key="d2">9</data>
+</edge>
+<edge source="CISPLATINE" target="DOXORUBICINE">
+  <data key="d2">59</data>
+</edge>
+<edge source="CISPLATINE" target="SELUMETINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CISPLATINE" target="IFOSFAMIDE">
+  <data key="d2">41</data>
+</edge>
+<edge source="CISPLATINE" target="PROCARBAZINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="CISPLATINE" target="CH1418CHO">
+  <data key="d2">4</data>
+</edge>
+<edge source="CISPLATINE" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="CISPLATINE" target="FLUOROURACIL">
+  <data key="d2">2</data>
+</edge>
+<edge source="CISPLATINE" target="PROLEUKIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="CISPLATINE" target="LOMUSTINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CISPLATINE" target="CARMUSTINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CISPLATINE" target="CELECOXIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="CISPLATINE" target="THALIDOMIDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CISPLATINE" target="GEMCITABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CISPLATINE" target="INTERFERON">
+  <data key="d2">1</data>
+</edge>
+<edge source="CISPLATINE" target="SORAFENIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="CISPLATINE" target="DACARBAZINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CISPLATINE" target="DEXAMETHASONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CISPLATINE" target="RAPAMYCINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="PREDNISONE">
+  <data key="d2">25</data>
+</edge>
+<edge source="METHOTREXATE" target="ARACYTINE">
+  <data key="d2">42</data>
+</edge>
+<edge source="METHOTREXATE" target="DOXORUBICINE">
+  <data key="d2">29</data>
+</edge>
+<edge source="METHOTREXATE" target="MERCAPTOPURINE">
+  <data key="d2">29</data>
+</edge>
+<edge source="METHOTREXATE" target="KIDROLASEASP">
+  <data key="d2">25</data>
+</edge>
+<edge source="METHOTREXATE" target="THIOGUANINE">
+  <data key="d2">24</data>
+</edge>
+<edge source="METHOTREXATE" target="MITOXANTRONE">
+  <data key="d2">16</data>
+</edge>
+<edge source="METHOTREXATE" target="PEGASP">
+  <data key="d2">20</data>
+</edge>
+<edge source="METHOTREXATE" target="CYTARABINE">
+  <data key="d2">30</data>
+</edge>
+<edge source="METHOTREXATE" target="IFOSFAMIDE">
+  <data key="d2">61</data>
+</edge>
+<edge source="METHOTREXATE" target="DEXAMETHASONE">
+  <data key="d2">31</data>
+</edge>
+<edge source="METHOTREXATE" target="VINBLASTINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="METHOTREXATE" target="DAUNORUBICINE">
+  <data key="d2">34</data>
+</edge>
+<edge source="METHOTREXATE" target="BUSULFAN">
+  <data key="d2">5</data>
+</edge>
+<edge source="METHOTREXATE" target="VINDESINE">
+  <data key="d2">13</data>
+</edge>
+<edge source="METHOTREXATE" target="DAUNOXOME">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="AMSACRINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="METHOTREXATE" target="BORTEZOMIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="METHOTREXATE" target="ERWINIAASP">
+  <data key="d2">8</data>
+</edge>
+<edge source="METHOTREXATE" target="RITUXIMAB">
+  <data key="d2">6</data>
+</edge>
+<edge source="METHOTREXATE" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="FLUDARABINE">
+  <data key="d2">4</data>
+</edge>
+<edge source="METHOTREXATE" target="ACIDEFOLINIQUE">
+  <data key="d2">3</data>
+</edge>
+<edge source="METHOTREXATE" target="PREDNISOLONE">
+  <data key="d2">20</data>
+</edge>
+<edge source="METHOTREXATE" target="GEMCITABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="DOCETAXEL">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="CELECOXIB">
+  <data key="d2">3</data>
+</edge>
+<edge source="METHOTREXATE" target="VINORELBINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="METHOTREXATE" target="BLINATUMOMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="METHOTREXATE" target="CARMUSTINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="METHOTREXATE" target="IBRUTINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="HYDROCORTISONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="METHOTREXATE" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="HYDROXYCARBAMID">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="AZACYTIDINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="SORAFENIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="METHOTREXATE" target="RAPAMYCINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="OXALIPLATINE" target="FLUOROURACIL">
+  <data key="d2">3</data>
+</edge>
+<edge source="OXALIPLATINE" target="CETUXIMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="OXALIPLATINE" target="BEVACIZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="OXALIPLATINE" target="GEMCITABINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="FLUOROURACIL" target="CETUXIMAB">
+  <data key="d2">3</data>
+</edge>
+<edge source="FLUOROURACIL" target="BEVACIZUMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="CETUXIMAB" target="BEVACIZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="BEVACIZUMAB" target="BUSULFAN">
+  <data key="d2">1</data>
+</edge>
+<edge source="BEVACIZUMAB" target="DOXORUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BEVACIZUMAB" target="IFOSFAMIDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BEVACIZUMAB" target="VINORELBINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="BEVACIZUMAB" target="VINBLASTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BEVACIZUMAB" target="CELECOXIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="BEVACIZUMAB" target="FENOFIBRATE">
+  <data key="d2">2</data>
+</edge>
+<edge source="BEVACIZUMAB" target="ARACYTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BEVACIZUMAB" target="DEXAMETHASONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BEVACIZUMAB" target="CYTARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="GEMCITABINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="IFOSFAMIDE" target="DOCETAXEL">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="RAPAMYCINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="IFOSFAMIDE" target="DOXORUBICINE">
+  <data key="d2">131</data>
+</edge>
+<edge source="IFOSFAMIDE" target="VINORELBINE">
+  <data key="d2">29</data>
+</edge>
+<edge source="IFOSFAMIDE" target="BUSULFAN">
+  <data key="d2">9</data>
+</edge>
+<edge source="IFOSFAMIDE" target="VINBLASTINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="IFOSFAMIDE" target="CELECOXIB">
+  <data key="d2">5</data>
+</edge>
+<edge source="IFOSFAMIDE" target="ZOLEDRONICACID">
+  <data key="d2">3</data>
+</edge>
+<edge source="IFOSFAMIDE" target="DEXAMETHASONE">
+  <data key="d2">7</data>
+</edge>
+<edge source="IFOSFAMIDE" target="CYTARABINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="IFOSFAMIDE" target="PREDNISOLONE">
+  <data key="d2">3</data>
+</edge>
+<edge source="IFOSFAMIDE" target="PREDNISONE">
+  <data key="d2">3</data>
+</edge>
+<edge source="IFOSFAMIDE" target="DACARBAZINE">
+  <data key="d2">4</data>
+</edge>
+<edge source="IFOSFAMIDE" target="CLADRIBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="IDARUBICINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="IFOSFAMIDE" target="ACIDEFOLINIQUE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="ARACYTINE">
+  <data key="d2">4</data>
+</edge>
+<edge source="IFOSFAMIDE" target="PEGASP">
+  <data key="d2">2</data>
+</edge>
+<edge source="IFOSFAMIDE" target="ERWINIAASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="DAUNORUBICINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="IFOSFAMIDE" target="MITOXANTRONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="KIDROLASEASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="THIOGUANINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="IFOSFAMIDE" target="RITUXIMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="IFOSFAMIDE" target="IBRUTINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="MERCAPTOPURINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="HYDROCORTISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="THALIDOMIDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="VINDESINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFOSFAMIDE" target="RETINOICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="RETINOICACID" target="BUSULFAN">
+  <data key="d2">9</data>
+</edge>
+<edge source="RETINOICACID" target="TOPOTECAN">
+  <data key="d2">5</data>
+</edge>
+<edge source="RETINOICACID" target="DOXORUBICINE">
+  <data key="d2">4</data>
+</edge>
+<edge source="RETINOICACID" target="CH1418CHO">
+  <data key="d2">1</data>
+</edge>
+<edge source="RETINOICACID" target="DEXAMETHASONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="RETINOICACID" target="DACARBAZINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="TOPOTECAN">
+  <data key="d2">12</data>
+</edge>
+<edge source="BUSULFAN" target="DOXORUBICINE">
+  <data key="d2">21</data>
+</edge>
+<edge source="BUSULFAN" target="VINBLASTINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="BUSULFAN" target="CELECOXIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="BUSULFAN" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="VINORELBINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="BUSULFAN" target="ARACYTINE">
+  <data key="d2">4</data>
+</edge>
+<edge source="BUSULFAN" target="PEGASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="VINDESINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="BUSULFAN" target="DAUNOXOME">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="AMSACRINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="CH1418CHO">
+  <data key="d2">5</data>
+</edge>
+<edge source="BUSULFAN" target="FLUDARABINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="BUSULFAN" target="MITOXANTRONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="BUSULFAN" target="CYTARABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="BUSULFAN" target="PREDNISONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="BUSULFAN" target="DAUNORUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="MERCAPTOPURINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="KIDROLASEASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="THIOGUANINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="PREDNISOLONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="BUSULFAN" target="DEXAMETHASONE">
+  <data key="d2">3</data>
+</edge>
+<edge source="BUSULFAN" target="PROLEUKIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="BUSULFAN" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="TOPOTECAN" target="DOXORUBICINE">
+  <data key="d2">20</data>
+</edge>
+<edge source="TOPOTECAN" target="GEMCITABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="TOPOTECAN" target="DOCETAXEL">
+  <data key="d2">1</data>
+</edge>
+<edge source="TOPOTECAN" target="CH1418CHO">
+  <data key="d2">2</data>
+</edge>
+<edge source="TOPOTECAN" target="PROLEUKIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="TOPOTECAN" target="DEXAMETHASONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="PREDNISONE" target="ARACYTINE">
+  <data key="d2">17</data>
+</edge>
+<edge source="PREDNISONE" target="DACARBAZINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="PREDNISONE" target="MITOXANTRONE">
+  <data key="d2">4</data>
+</edge>
+<edge source="PREDNISONE" target="PEGASP">
+  <data key="d2">6</data>
+</edge>
+<edge source="PREDNISONE" target="CYTARABINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="PREDNISONE" target="DAUNORUBICINE">
+  <data key="d2">16</data>
+</edge>
+<edge source="PREDNISONE" target="MERCAPTOPURINE">
+  <data key="d2">14</data>
+</edge>
+<edge source="PREDNISONE" target="KIDROLASEASP">
+  <data key="d2">11</data>
+</edge>
+<edge source="PREDNISONE" target="THIOGUANINE">
+  <data key="d2">11</data>
+</edge>
+<edge source="PREDNISONE" target="DOXORUBICINE">
+  <data key="d2">10</data>
+</edge>
+<edge source="PREDNISONE" target="DEXAMETHASONE">
+  <data key="d2">15</data>
+</edge>
+<edge source="PREDNISONE" target="ERWINIAASP">
+  <data key="d2">5</data>
+</edge>
+<edge source="PREDNISONE" target="FLUDARABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="PREDNISONE" target="VINDESINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="PREDNISONE" target="CLADRIBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="PREDNISONE" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="PREDNISONE" target="PREDNISOLONE">
+  <data key="d2">5</data>
+</edge>
+<edge source="PREDNISONE" target="BLINATUMOMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="PREDNISONE" target="RITUXIMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="PREDNISONE" target="HYDROCORTISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="PREDNISONE" target="HYDROXYCARBAMID">
+  <data key="d2">1</data>
+</edge>
+<edge source="PREDNISONE" target="AMSACRINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="DOXORUBICINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="ARACYTINE" target="MERCAPTOPURINE">
+  <data key="d2">17</data>
+</edge>
+<edge source="ARACYTINE" target="KIDROLASEASP">
+  <data key="d2">18</data>
+</edge>
+<edge source="ARACYTINE" target="THIOGUANINE">
+  <data key="d2">17</data>
+</edge>
+<edge source="ARACYTINE" target="DAUNORUBICINE">
+  <data key="d2">25</data>
+</edge>
+<edge source="ARACYTINE" target="PEGASP">
+  <data key="d2">12</data>
+</edge>
+<edge source="ARACYTINE" target="VINDESINE">
+  <data key="d2">10</data>
+</edge>
+<edge source="ARACYTINE" target="DAUNOXOME">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="AMSACRINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="ARACYTINE" target="BORTEZOMIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="MITOXANTRONE">
+  <data key="d2">12</data>
+</edge>
+<edge source="ARACYTINE" target="DEXAMETHASONE">
+  <data key="d2">20</data>
+</edge>
+<edge source="ARACYTINE" target="ERWINIAASP">
+  <data key="d2">4</data>
+</edge>
+<edge source="ARACYTINE" target="FLUDARABINE">
+  <data key="d2">4</data>
+</edge>
+<edge source="ARACYTINE" target="ACIDEFOLINIQUE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="PREDNISOLONE">
+  <data key="d2">17</data>
+</edge>
+<edge source="ARACYTINE" target="CYTARABINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ARACYTINE" target="BLINATUMOMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="HYDROXYCARBAMID">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="GEMTUZUMABOZO">
+  <data key="d2">2</data>
+</edge>
+<edge source="ARACYTINE" target="AZACYTIDINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="SORAFENIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="VINORELBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="CELECOXIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ARACYTINE" target="FENOFIBRATE">
+  <data key="d2">1</data>
+</edge>
+<edge source="GEMCITABINE" target="DOCETAXEL">
+  <data key="d2">11</data>
+</edge>
+<edge source="GEMCITABINE" target="RAPAMYCINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="GEMCITABINE" target="PREDNISOLONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="GEMCITABINE" target="VINORELBINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="GEMCITABINE" target="BRENTUXIMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="GEMCITABINE" target="DOXORUBICINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="GEMCITABINE" target="VINBLASTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DOCETAXEL" target="RAPAMYCINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DOXORUBICINE" target="VINBLASTINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="DOXORUBICINE" target="CELECOXIB">
+  <data key="d2">5</data>
+</edge>
+<edge source="DOXORUBICINE" target="ZOLEDRONICACID">
+  <data key="d2">2</data>
+</edge>
+<edge source="DOXORUBICINE" target="MERCAPTOPURINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="DOXORUBICINE" target="KIDROLASEASP">
+  <data key="d2">8</data>
+</edge>
+<edge source="DOXORUBICINE" target="THIOGUANINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="DOXORUBICINE" target="VINORELBINE">
+  <data key="d2">23</data>
+</edge>
+<edge source="DOXORUBICINE" target="DAUNORUBICINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="DOXORUBICINE" target="VINDESINE">
+  <data key="d2">4</data>
+</edge>
+<edge source="DOXORUBICINE" target="CYTARABINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="DOXORUBICINE" target="DACARBAZINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="DOXORUBICINE" target="BRENTUXIMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="DOXORUBICINE" target="CH1418CHO">
+  <data key="d2">3</data>
+</edge>
+<edge source="DOXORUBICINE" target="RITUXIMAB">
+  <data key="d2">4</data>
+</edge>
+<edge source="DOXORUBICINE" target="FLUDARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DOXORUBICINE" target="ACIDEFOLINIQUE">
+  <data key="d2">2</data>
+</edge>
+<edge source="DOXORUBICINE" target="PREDNISOLONE">
+  <data key="d2">6</data>
+</edge>
+<edge source="DOXORUBICINE" target="DEXAMETHASONE">
+  <data key="d2">7</data>
+</edge>
+<edge source="DOXORUBICINE" target="PEGASP">
+  <data key="d2">2</data>
+</edge>
+<edge source="DOXORUBICINE" target="ERWINIAASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="DOXORUBICINE" target="PROLEUKIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="DOXORUBICINE" target="MITOXANTRONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="DOXORUBICINE" target="BLINATUMOMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="DOXORUBICINE" target="HYDROCORTISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DOXORUBICINE" target="THALIDOMIDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DOXORUBICINE" target="SORAFENIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="VINORELBINE" target="PREDNISOLONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINORELBINE" target="BRENTUXIMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="VINORELBINE" target="VINBLASTINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="VINORELBINE" target="CELECOXIB">
+  <data key="d2">2</data>
+</edge>
+<edge source="VINORELBINE" target="DACARBAZINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINORELBINE" target="FENOFIBRATE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINORELBINE" target="DEXAMETHASONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINORELBINE" target="CYTARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINORELBINE" target="DAUNORUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DACARBAZINE" target="CLADRIBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DACARBAZINE" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINBLASTINE" target="CELECOXIB">
+  <data key="d2">8</data>
+</edge>
+<edge source="VINBLASTINE" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINBLASTINE" target="NILOTINIB">
+  <data key="d2">4</data>
+</edge>
+<edge source="VINBLASTINE" target="BRENTUXIMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CELECOXIB" target="ZOLEDRONICACID">
+  <data key="d2">1</data>
+</edge>
+<edge source="CELECOXIB" target="THALIDOMIDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CELECOXIB" target="FENOFIBRATE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CELECOXIB" target="DEXAMETHASONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CELECOXIB" target="CYTARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="KIDROLASEASP">
+  <data key="d2">17</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="THIOGUANINE">
+  <data key="d2">20</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="DAUNORUBICINE">
+  <data key="d2">20</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="VINDESINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="CYTARABINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="MITOXANTRONE">
+  <data key="d2">3</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="DEXAMETHASONE">
+  <data key="d2">14</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="PEGASP">
+  <data key="d2">5</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="ERWINIAASP">
+  <data key="d2">5</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="FLUDARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="PREDNISOLONE">
+  <data key="d2">6</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="ACIDEFOLINIQUE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MERCAPTOPURINE" target="HYDROCORTISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="KIDROLASEASP" target="THIOGUANINE">
+  <data key="d2">15</data>
+</edge>
+<edge source="KIDROLASEASP" target="DAUNORUBICINE">
+  <data key="d2">22</data>
+</edge>
+<edge source="KIDROLASEASP" target="VINDESINE">
+  <data key="d2">9</data>
+</edge>
+<edge source="KIDROLASEASP" target="CYTARABINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="KIDROLASEASP" target="MITOXANTRONE">
+  <data key="d2">7</data>
+</edge>
+<edge source="KIDROLASEASP" target="FLUDARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="KIDROLASEASP" target="PREDNISOLONE">
+  <data key="d2">8</data>
+</edge>
+<edge source="KIDROLASEASP" target="DEXAMETHASONE">
+  <data key="d2">11</data>
+</edge>
+<edge source="KIDROLASEASP" target="AMSACRINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="KIDROLASEASP" target="ERWINIAASP">
+  <data key="d2">2</data>
+</edge>
+<edge source="KIDROLASEASP" target="BORTEZOMIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="KIDROLASEASP" target="ACIDEFOLINIQUE">
+  <data key="d2">1</data>
+</edge>
+<edge source="KIDROLASEASP" target="HYDROXYCARBAMID">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOGUANINE" target="DAUNORUBICINE">
+  <data key="d2">20</data>
+</edge>
+<edge source="THIOGUANINE" target="VINDESINE">
+  <data key="d2">10</data>
+</edge>
+<edge source="THIOGUANINE" target="CYTARABINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="THIOGUANINE" target="PEGASP">
+  <data key="d2">5</data>
+</edge>
+<edge source="THIOGUANINE" target="DEXAMETHASONE">
+  <data key="d2">12</data>
+</edge>
+<edge source="THIOGUANINE" target="ERWINIAASP">
+  <data key="d2">4</data>
+</edge>
+<edge source="THIOGUANINE" target="FLUDARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOGUANINE" target="PREDNISOLONE">
+  <data key="d2">5</data>
+</edge>
+<edge source="THIOGUANINE" target="MITOXANTRONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOGUANINE" target="LOMUSTINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="THIOGUANINE" target="PROCARBAZINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="THIOGUANINE" target="HYDROCORTISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THIOGUANINE" target="CARMUSTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITOXANTRONE" target="PEGASP">
+  <data key="d2">8</data>
+</edge>
+<edge source="MITOXANTRONE" target="CYTARABINE">
+  <data key="d2">10</data>
+</edge>
+<edge source="MITOXANTRONE" target="FLUDARABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="MITOXANTRONE" target="DAUNORUBICINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="MITOXANTRONE" target="PREDNISOLONE">
+  <data key="d2">8</data>
+</edge>
+<edge source="MITOXANTRONE" target="DEXAMETHASONE">
+  <data key="d2">8</data>
+</edge>
+<edge source="MITOXANTRONE" target="BLINATUMOMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITOXANTRONE" target="AMSACRINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="MITOXANTRONE" target="ACIDEFOLINIQUE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITOXANTRONE" target="HYDROCORTISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITOXANTRONE" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITOXANTRONE" target="HYDROXYCARBAMID">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITOXANTRONE" target="ERWINIAASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="PEGASP" target="CYTARABINE">
+  <data key="d2">8</data>
+</edge>
+<edge source="PEGASP" target="VINDESINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="PEGASP" target="DAUNOXOME">
+  <data key="d2">2</data>
+</edge>
+<edge source="PEGASP" target="AMSACRINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="PEGASP" target="DAUNORUBICINE">
+  <data key="d2">7</data>
+</edge>
+<edge source="PEGASP" target="DEXAMETHASONE">
+  <data key="d2">9</data>
+</edge>
+<edge source="PEGASP" target="ERWINIAASP">
+  <data key="d2">3</data>
+</edge>
+<edge source="PEGASP" target="ACIDEFOLINIQUE">
+  <data key="d2">2</data>
+</edge>
+<edge source="PEGASP" target="PREDNISOLONE">
+  <data key="d2">7</data>
+</edge>
+<edge source="PEGASP" target="BLINATUMOMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYTARABINE" target="DEXAMETHASONE">
+  <data key="d2">12</data>
+</edge>
+<edge source="CYTARABINE" target="DAUNORUBICINE">
+  <data key="d2">11</data>
+</edge>
+<edge source="CYTARABINE" target="VINDESINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CYTARABINE" target="RITUXIMAB">
+  <data key="d2">5</data>
+</edge>
+<edge source="CYTARABINE" target="FLUDARABINE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CYTARABINE" target="PREDNISOLONE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CYTARABINE" target="BLINATUMOMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYTARABINE" target="ERWINIAASP">
+  <data key="d2">3</data>
+</edge>
+<edge source="CYTARABINE" target="ACIDEFOLINIQUE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CYTARABINE" target="IDARUBICINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CYTARABINE" target="IBRUTINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="CYTARABINE" target="AMSACRINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CYTARABINE" target="HYDROCORTISONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CYTARABINE" target="FENOFIBRATE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DEXAMETHASONE" target="DAUNORUBICINE">
+  <data key="d2">14</data>
+</edge>
+<edge source="DEXAMETHASONE" target="ERWINIAASP">
+  <data key="d2">7</data>
+</edge>
+<edge source="DEXAMETHASONE" target="ACIDEFOLINIQUE">
+  <data key="d2">3</data>
+</edge>
+<edge source="DEXAMETHASONE" target="PREDNISOLONE">
+  <data key="d2">13</data>
+</edge>
+<edge source="DEXAMETHASONE" target="VINDESINE">
+  <data key="d2">5</data>
+</edge>
+<edge source="DEXAMETHASONE" target="FLUDARABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="DEXAMETHASONE" target="BLINATUMOMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="DEXAMETHASONE" target="BORTEZOMIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="DEXAMETHASONE" target="HYDROCORTISONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="DEXAMETHASONE" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="DEXAMETHASONE" target="FENOFIBRATE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DAUNORUBICINE" target="VINDESINE">
+  <data key="d2">10</data>
+</edge>
+<edge source="DAUNORUBICINE" target="ERWINIAASP">
+  <data key="d2">5</data>
+</edge>
+<edge source="DAUNORUBICINE" target="FLUDARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DAUNORUBICINE" target="PREDNISOLONE">
+  <data key="d2">9</data>
+</edge>
+<edge source="DAUNORUBICINE" target="AMSACRINE">
+  <data key="d2">6</data>
+</edge>
+<edge source="DAUNORUBICINE" target="BORTEZOMIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="DAUNORUBICINE" target="ACIDEFOLINIQUE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DAUNORUBICINE" target="HYDROCORTISONE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DAUNORUBICINE" target="HYDROXYCARBAMID">
+  <data key="d2">1</data>
+</edge>
+<edge source="DAUNORUBICINE" target="GEMTUZUMABOZO">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINDESINE" target="DAUNOXOME">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINDESINE" target="AMSACRINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINDESINE" target="BORTEZOMIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINDESINE" target="FLUDARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="VINDESINE" target="PREDNISOLONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="VINDESINE" target="ERWINIAASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="DAUNOXOME" target="AMSACRINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="DAUNOXOME" target="FLUDARABINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="AMSACRINE" target="PREDNISOLONE">
+  <data key="d2">2</data>
+</edge>
+<edge source="AMSACRINE" target="HYDROXYCARBAMID">
+  <data key="d2">1</data>
+</edge>
+<edge source="AMSACRINE" target="ERWINIAASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="PROCARBAZINE" target="LOMUSTINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="PROCARBAZINE" target="CARMUSTINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="THALIDOMIDE" target="FENOFIBRATE">
+  <data key="d2">1</data>
+</edge>
+<edge source="PREDNISOLONE" target="ACIDEFOLINIQUE">
+  <data key="d2">2</data>
+</edge>
+<edge source="PREDNISOLONE" target="ERWINIAASP">
+  <data key="d2">1</data>
+</edge>
+<edge source="PREDNISOLONE" target="FLUDARABINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="PREDNISOLONE" target="BLINATUMOMAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="PREDNISOLONE" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERWINIAASP" target="ACIDEFOLINIQUE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CH1418CHO" target="PROLEUKIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="RITUXIMAB" target="IBRUTINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="RITUXIMAB" target="IDARUBICINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="FLUDARABINE" target="IDARUBICINE">
+  <data key="d2">2</data>
+</edge>
+<edge source="FLUDARABINE" target="EPRATUZUMAB">
+  <data key="d2">1</data>
+</edge>
+<edge source="FLUDARABINE" target="GEMTUZUMABOZO">
+  <data key="d2">1</data>
+</edge>
+<edge source="IDARUBICINE" target="CLADRIBINE">
+  <data key="d2">1</data>
+</edge>
+<edge source="IDARUBICINE" target="IBRUTINIB">
+  <data key="d2">1</data>
+</edge>
+<edge source="IDARUBICINE" target="GEMTUZUMABOZO">
+  <data key="d2">1</data>
+</edge>
+<edge source="AZACYTIDINE" target="SORAFENIB">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>
